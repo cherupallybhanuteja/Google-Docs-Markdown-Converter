@@ -31,12 +31,10 @@ Run this in a Colab cell:
 - Open **Google_Docs_Markdown_Converter.ipynb**  
 - Execute the cells in order.
 
-### 🔗 **How to Run**  
+## 🔗 **How to Run**  
 📌 **Follow these steps to execute the script in Google Colab:**  
 1️⃣ **Upload the JSON key file** to Google Colab.  
 2️⃣ **Run the Python script**.  
 3️⃣ **Open the generated Google Doc link**.  
 4️⃣ **Verify that all Markdown content is formatted correctly**.  
 
-```sql
--- Copy and Edit
