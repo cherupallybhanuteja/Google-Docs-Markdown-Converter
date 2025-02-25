@@ -27,13 +27,9 @@ Run this in a Colab cell:
 ```sh
 !pip install --upgrade google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client gspread
 
----
-
 ### **4️⃣ Run the Notebook**  
 - Open **Google_Docs_Markdown_Converter.ipynb**  
-- Execute the cells in order.  
-
----
+- Execute the cells in order.
 
 ### 🔗 **How to Run**  
 📌 **Follow these steps to execute the script in Google Colab:**  
