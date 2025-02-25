@@ -24,8 +24,9 @@ This Python script converts **Markdown-formatted meeting notes** into a **well-s
 
 ### **3️⃣ Install Dependencies**  
 Run this in a Colab cell:  
-sh
-!pip install --upgrade google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client gspread
+   ```sh
+   !pip install --upgrade google-auth google-auth-oauthlib google-auth-httplib2 google-api- 
+   python-client gspread
 
 ### **4️⃣ Run the Notebook**  
 - Open **Google_Docs_Markdown_Converter.ipynb**  
