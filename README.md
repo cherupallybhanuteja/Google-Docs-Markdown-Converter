@@ -20,7 +20,6 @@ This Python script converts **Markdown-formatted meeting notes** into a **well-s
   ```python
   from google.colab import files
   files.upload()
-  
   Select the downloaded JSON key file.
 
 ### **3️⃣ Install Dependencies**  
